@@ -7,6 +7,7 @@ This project utilizes an LLM to perform various AI-driven tasks. To get started,
 - A system with a compatible operating system (Linux/Mac/Windows)
 - [Ollama](https://ollama.ai) installed
 - Internet connection to download the required model
+- Classifier model is available at [drive](https://drive.google.com/drive/folders/1zzn820Zs5hyyFA0Tb27xBcO4wjdZWLKv?usp=sharing)
 
 ## Installation
 
